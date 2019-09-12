@@ -7,7 +7,7 @@ class User:
         return self.balance
 
     def remove_money(self, quantity):
-        self.balance = self.balance - float(quantity)
+        self.balance -= float(quantity)
 
     def add_money(self, quantity):
-        self.balance = self.balance + float(quantity)
+        self.balance += float(quantity)

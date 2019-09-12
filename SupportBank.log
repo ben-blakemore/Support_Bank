@@ -1,0 +1,5 @@
+INFO:root:[Thu Sep 12 14:47:14 2019] Loaded file transactions/a.csv in CSV format
+INFO:root:[Thu Sep 12 14:47:27 2019] Exported file to transactions/a.json.csv.xml in XML format
+INFO:root:[Thu Sep 12 14:48:06 2019] User printed list of accounts
+INFO:root:[Thu Sep 12 14:48:16 2019] User printed list of accounts
+INFO:root:[Thu Sep 12 14:48:31 2019] User exited

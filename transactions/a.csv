@@ -1,0 +1,150 @@
+Date,From,To,Narrative,Amount
+2013-01-01,Gergana I,Jon A,Snooker Night,9.22
+2013-01-02,Sam N,Dan W,Coffee,6.98
+2013-01-06,Stephen S,Sarah T,Lunch,10.67
+2013-01-07,Rob S,Sarah T,Misc Morale,7.19
+2013-01-09,Tim L,Chris W,Fantasy Football,10.73
+2013-01-12,Tim L,Rob S,Automated Testing Services,10.1
+2013-01-14,Sarah T,Sam N,Beers,1.79
+2013-01-17,Dan W,Todd,Beers,11.1
+2013-01-18,Chris W,Ben B,Coffee,10.89
+2013-01-20,Chris W,Tim L,Pokemon Training,3.12
+2013-01-24,Rob S,Tim L,Snooker Night,2.29
+2013-01-25,Chris W,Rob S,Spline Reticulation,7.32
+2013-01-28,Stephen S,Gergana I,Stationary Items,6.1
+2013-01-29,Stephen S,Todd,Lunch,7.72
+2013-01-31,Stephen S,Laura B,Misc Morale,5.2
+2013-02-02,Sam N,Rob S,Pokemon Training,4.67
+2013-02-05,Ben B,Chris W,Coffee,11.72
+2013-02-09,Rob S,Jon A,Pokemon Training,6.45
+2013-02-13,Todd,Ben B,Sandcastle Help,8.46
+2013-02-16,Laura B,Todd,Lunch,10.36
+2013-02-20,Chris W,Stephen S,Pokemon Training,3.88
+2013-02-23,Sam N,Dan W,Beers,9.81
+2013-02-24,Gergana I,Rob S,Lunch,3.67
+2013-02-26,Dan W,Tim L,Lunch,0.63
+2013-03-02,Tim L,Ben B,Jenkins Fees,2.61
+2013-03-04,Rob S,Ben B,Coffee,4.85
+2013-03-08,Stephen S,Gergana I,Lunch,3.14
+2013-03-12,Gergana I,Chris W,Arcade Social,9.01
+2013-03-13,Gergana I,Rob S,Lego Assistance,6.33
+2013-03-17,Dan W,Stephen S,Misc Morale,11.84
+2013-03-19,Jon A,Sarah T,Spline Reticulation,9.1
+2013-03-22,Stephen S,Dan W,Coffee,8.41
+2013-03-26,Stephen S,Tim L,Lunch,2.38
+2013-03-30,Gergana I,Laura B,Snooker Night,1.9
+2013-03-31,Sarah T,Gergana I,Sandcastle Help,1.89
+2013-04-01,Laura B,Dan W,Stationary Items,3.8
+2013-04-03,Dan W,Chris W,Fantasy Football,11.63
+2013-04-05,Dan W,Todd,Misc Morale,7.32
+2013-04-06,Sam N,Chris W,Audit and Other Financial Services,6.06
+2013-04-09,Tim L,Chris W,Arcade Social,11.17
+2013-04-11,Sarah T,Dan W,Lego Assistance,5.49
+2013-04-13,Gergana I,Jon A,Git-Fu Rendered,0.8
+2013-04-14,Sam N,Todd,Lunch,5.43
+2013-04-15,Laura B,Dan W,Lunch,10.46
+2013-04-17,Laura B,Rob S,Beers,11.7
+2013-04-21,Stephen S,Ben B,Pokemon Training,11.09
+2013-04-24,Todd,Dan W,Audit and Other Financial Services,8.44
+2013-04-28,Laura B,Sam N,Fantasy Football,0.93
+2013-04-30,Laura B,Ben B,Jenkins Fees,8.17
+2013-05-01,Jon A,Tim L,Automated Testing Services,4.79
+2013-05-03,Sarah T,Laura B,Snooker Night,8.24
+2013-05-07,Gergana I,Ben B,Coffee,9.17
+2013-05-10,Todd,Sam N,Pokemon Training,11.4
+2013-05-11,Sam N,Dan W,Sandbox Help,1.55
+2013-05-14,Chris W,Rob S,Lunch,4.3
+2013-05-18,Rob S,Sam N,Automated Testing Services,8.6
+2013-05-22,Todd,Chris W,Fantasy Football,10.88
+2013-05-26,Sarah T,Chris W,Misc Morale,5.19
+2013-05-29,Tim L,Ben B,White Water Rafting,10.73
+2013-06-01,Gergana I,Tim L,Arcade Social,10.73
+2013-06-02,Chris W,Jon A,Spline Reticulation,10.84
+2013-06-03,Laura B,Jon A,Coffee,3.51
+2013-06-05,Sarah T,Dan W,Automated Testing Services,1.78
+2013-06-08,Dan W,Stephen S,Lunch,3.11
+2013-06-12,Sarah T,Chris W,Lego Assistance,3.75
+2013-06-15,Todd,Stephen S,Misc Morale,4.15
+2013-06-19,Laura B,Chris W,Stationary Items,9.43
+2013-06-20,Ben B,Chris W,Golf Bets,1.45
+2013-06-22,Laura B,Sam N,Lunch,8.71
+2013-06-23,Stephen S,Todd,Lunch,4.8
+2013-06-26,Dan W,Jon A,Misc Morale,6.57
+2013-06-28,Chris W,Stephen S,Sandcastle Help,10.78
+2013-06-30,Laura B,Jon A,Poker Winnings,0.52
+2013-07-02,Stephen S,Tim L,Pokemon Training,10.86
+2013-07-06,Jon A,Dan W,Snooker Night,7.98
+2013-07-07,Sarah T,Ben B,Jenkins Fees,7.6
+2013-07-08,Laura B,Rob S,Git-Fu Rendered,7.73
+2013-07-10,Tim L,Ben B,Misc Morale,9.1
+2013-07-14,Jon A,Laura B,Golf Bets,1.2
+2013-07-15,Tim L,Todd,Pokemon Training,3.57
+2013-07-17,Ben B,Chris W,Services Rendered,1.33
+2013-07-19,Stephen S,Jon A,Coffee,8.55
+2013-07-23,Jon A,Rob S,Lego Assistance,10.01
+2013-07-24,Jon A,Sam N,Beers,5.83
+2013-07-25,Rob S,Todd,Coffee,10.52
+2013-07-27,Todd,Dan W,Jenkins Fees,11.59
+2013-07-28,Jon A,Chris W,Coffee,9.47
+2013-07-31,Rob S,Sam N,Misc Morale,4.34
+2013-08-04,Stephen S,Sam N,Lunch,10.41
+2013-08-06,Tim L,Sam N,Sandbox Help,2.12
+2013-08-10,Laura B,Dan W,Snooker Night,1.74
+2013-08-11,Chris W,Laura B,Misc Morale,1.92
+2013-08-12,Chris W,Dan W,Rails Consultancy,3.2
+2013-08-13,Chris W,Todd,Beers,5.38
+2013-08-14,Todd,Tim L,Automated Testing Services,8.57
+2013-08-15,Sarah T,Stephen S,White Water Rafting,8.85
+2013-08-19,Laura B,Stephen S,Misc Morale,11.22
+2013-08-22,Dan W,Gergana I,Coffee,0.58
+2013-08-25,Sarah T,Rob S,Audit and Other Financial Services,10.69
+2013-08-27,Sarah T,Dan W,Coffee,7.72
+2013-08-28,Tim L,Sam N,Services Rendered,9.11
+2013-08-31,Tim L,Jon A,Fantasy Football,8.65
+2013-09-03,Sarah T,Dan W,Coffee,8.36
+2013-09-04,Todd,Sam N,Snooker Night,3.57
+2013-09-05,Dan W,Tim L,Pokemon Training,10.2
+2013-09-08,Stephen S,Chris W,Jenkins Fees,7.89
+2013-09-12,Sarah T,Chris W,Lunch,4.41
+2013-09-14,Todd,Tim L,Git-Fu Rendered,10.89
+2013-09-18,Stephen S,Jon A,Lunch,0.64
+2013-09-21,Sam N,Jon A,Beers,10.25
+2013-09-23,Rob S,Gergana I,Sandcastle Help,4.73
+2013-09-27,Todd,Chris W,Golf Bets,11.83
+2013-09-30,Tim L,Stephen S,Lunch,4.42
+2013-10-03,Jon A,Ben B,Coffee,3.66
+2013-10-06,Laura B,Todd,Lunch,10.25
+2013-10-10,Chris W,Chris W,Lunch,2.48
+2013-10-13,Laura B,Dan W,Lunch,10.62
+2013-10-17,Jon A,Gergana I,Misc Morale,9.01
+2013-10-18,Ben B,Laura B,Audit and Other Financial Services,10.6
+2013-10-19,Todd,Dan W,Beers,4.34
+2013-10-22,Todd,Ben B,Sandcastle Help,10.4
+2013-10-23,Sam N,Laura B,Coffee,2.13
+2013-10-26,Dan W,Sam N,Beers,6.22
+2013-10-28,Gergana I,Chris W,Coffee,9.29
+2013-10-30,Dan W,Sam N,Coffee,11.07
+2013-11-03,Ben B,Todd,Coffee,7.83
+2013-11-04,Sarah T,Tim L,Golf Bets,5.18
+2013-11-06,Sam N,Sarah T,Beers,6.66
+2013-11-10,Tim L,Sarah T,Pokemon Training,3.74
+2013-11-14,Tim L,Dan W,Coffee,11.93
+2013-11-16,Jon A,Tim L,Lunch,2.99
+2013-11-17,Stephen S,Chris W,Automated Testing Services,5.95
+2013-11-20,Dan W,Rob S,Coffee,7.08
+2013-11-23,Rob S,Ben B,Git-Fu Rendered,6.63
+2013-11-24,Dan W,Gergana I,Lego Assistance,0.92
+2013-11-27,Rob S,Todd,Coffee,1.49
+2013-11-28,Chris W,Todd,Services Rendered,10.78
+2013-12-01,Chris W,Sarah T,Git-Fu Rendered,4.53
+2013-12-02,Gergana I,Sarah T,Misc Morale,2.92
+2013-12-05,Jon A,Tim L,Jenkins Fees,7.88
+2013-12-09,Tim L,Sarah T,Coffee,9.31
+2013-12-12,Sam N,Laura B,Rails Consultancy,2.44
+2013-12-13,Sarah T,Jon A,Stationary Items,8.89
+2013-12-17,Tim L,Stephen S,Spline Reticulation,8.73
+2013-12-19,Sarah T,Laura B,Lunch,10.28
+2013-12-23,Stephen S,Sarah T,Lego Assistance,6.07
+2013-12-27,Tim L,Jon A,Coffee,6.28
+2013-12-29,Rob S,Chris W,Automated Testing Services,10.98
+2013-12-31,Tim L,Todd,Services Rendered,0.77
